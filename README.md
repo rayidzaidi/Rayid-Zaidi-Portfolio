@@ -36,7 +36,7 @@ Create a `.env.local` file in the root directory and add the following:
 MONGODB_URI=mongodb+srv://<username>:<password>@cluster0.mongodb.net/portfolio?retryWrites=true&w=majority
 JWT_SECRET=your_super_secret_jwt_key_here
 ADMIN_EMAIL=admin@example.com
-ADMIN_PASSWORD=secure_password_123
+ADMIN_PASSWORD=secure_password_placeholder
 NEXT_PUBLIC_URL=http://localhost:3000
 ```
 
